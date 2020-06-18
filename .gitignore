@@ -1,0 +1,27 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+.idea/.gitignore
+.idea/checkstyle-idea.xml
+.idea/encodings.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/other.xml
+.idea/python-study.iml
+.idea/snapshots/
+.idea/vcs.xml
+reactive-python/file/datafile.csv
+reactive-python/file/ded.csv
+reactive-python/file/mth_six_record.csv
+reactive-python/file/out.xlsx
+reactive-python/src/db/__pycache__/
+reactive-python/test/
+venv/
